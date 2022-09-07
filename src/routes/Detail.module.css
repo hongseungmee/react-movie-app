@@ -1,0 +1,25 @@
+body{
+    height:100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+}
+
+.txtContaier{
+    width:600px;
+    margin-left:70px;
+    border:1px solid rgba(255, 255, 255, 0.3);
+    padding:40px;
+}
+
+.txtContaier div{
+    margin-bottom: 20px;
+}
+
+.title{
+    margin-bottom: 60px;
+}
